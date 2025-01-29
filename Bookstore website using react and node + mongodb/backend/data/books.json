@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "6762f1371f316f83cce80cab",
+        "title": "The Great Gatsby",
+        "isbn": "9780743273565",
+        "author": "F. Scott Fitzgerald",
+        "category": "Classic",
+        "price": 10.99,
+        "stock": 98,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F40c203867140bdc9%2Foriginal%2F9781435172470_5637630433.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f1371f316f83cce80cac",
+        "title": "1984",
+        "isbn": "9780451524935",
+        "author": "George Orwell",
+        "category": "Fantasy",
+        "price": 9.99,
+        "stock": 138,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F259ebd83617e37ba%2Foriginal%2F9781802633900_5638421781.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f1371f316f83cce80cad",
+        "title": "To Kill a Mockingbird",
+        "isbn": "9780061120084",
+        "author": "Harper Lee",
+        "category": "Historical",
+        "price": 12.99,
+        "stock": 180,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F608add234cee06b9%2Foriginal%2F9781784752637_5637811878.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f1371f316f83cce80cae",
+        "title": "Pride and Prejudice",
+        "isbn": "9780141040349",
+        "author": "Jane Austen",
+        "category": "Romance",
+        "price": 8.99,
+        "stock": 50,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F44afca1fef348210%2Foriginal%2F9781847493699_5637916174.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2f7",
+        "title": "The Hobbit",
+        "isbn": "9780618260300",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "price": 14.99,
+        "stock": 120,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F3469387e42ccafcf%2Foriginal%2F9780007458424_5638087598.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2f8",
+        "title": "The Catcher in the Rye",
+        "isbn": "9780316769488",
+        "author": "J.D. Salinger",
+        "category": "Classic",
+        "price": 11.49,
+        "stock": 80,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F26cfb77b48d09dfc%2Foriginal%2F9780241984758_5638227483.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2f9",
+        "title": "Moby-Dick",
+        "isbn": "9781503280786",
+        "author": "Herman Melville",
+        "category": "Adventure",
+        "price": 13.49,
+        "stock": 60,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F1bd01a6a0d2742d7%2Foriginal%2F9781840228304_5637900546.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2fa",
+        "title": "War and Peace",
+        "isbn": "9780199232765",
+        "author": "Leo Tolstoy",
+        "category": "Historical",
+        "price": 19.99,
+        "stock": 40,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F128f10d1a9f44221%2Foriginal%2F9781853260629_5637931121.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2fb",
+        "title": "Crime and Punishment",
+        "isbn": "9780143107637",
+        "author": "Fyodor Dostoevsky",
+        "category": "Crime",
+        "price": 15.99,
+        "stock": 68,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2Fabd871b32b1979f%2Foriginal%2F9781840228564_5638082958.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "6762f29a152ae4aa8876f2fc",
+        "title": "The Lord of the Rings",
+        "isbn": "9780261103252",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "price": 25.99,
+        "stock": 90,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F3e841acaf4e5bc89%2Foriginal%2F9780261103252_5637411399.jpg&w=1200&q=75",
+        "__v": 0
+    },
+    {
+        "_id": "67642d88d2cfacee3a5f041e",
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "category": "Romance",
+        "price": 14.5,
+        "stock": 50,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F6ba2f32dcbe10874%2Foriginal%2F9781904233657_5638224628.jpg&w=1200&q=75",
+        "__v": 0,
+        "isbn": "9781904233657"
+    },
+    {
+        "_id": "67642f60d2cfacee3a5f0437",
+        "title": "Somebody Knows",
+        "isbn": "9781399716482",
+        "author": "Michelle McDonagh",
+        "category": "Crime",
+        "price": 16.99,
+        "stock": 70,
+        "image": "https://www.dubraybooks.ie/_next/image?url=https%3A%2F%2Fmedia.dubraybooks.ie%2Fm%2F7cf6bbc157b5332c%2Foriginal%2F9781399716482_5638301434.jpg&w=1200&q=75",
+        "__v": 0
+    }
+]
